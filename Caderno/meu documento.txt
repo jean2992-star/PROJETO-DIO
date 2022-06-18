@@ -1,0 +1,10 @@
+PORTUGOL PARA CRIAR PROJETOS DE CODIGOS SIMPLES
+
+•	bibliografia:Fundamentos da programação  de computadores(Pearson)
+
+ windows
+
+dir:lista diretoras
+Cls:limpa a tela
+Cd .. :volta ao inicio
+Mkdir:cria documento
